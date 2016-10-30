@@ -1,17 +1,17 @@
 {
-  "name": "semantic-ui",
+  "name": "ld-r-semantic-ui",
   "version": "2.2.6",
-  "title": "Semantic UI",
+  "title": "LD-R Semantic UI",
   "description": "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
   "homepage": "http://www.semantic-ui.com",
   "author": "Jack Lukic <jack@semantic-ui.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Semantic-Org/Semantic-UI.git"
+    "url": "git://github.com/ali1k/LD-R-Semantic-UI.git"
   },
   "bugs": {
-    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+    "url": "https://github.com/ali1k/LD-R-Semantic-UI/issues"
   },
   "scripts": {
     "install": "gulp install"
